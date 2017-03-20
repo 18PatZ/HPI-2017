@@ -1,2 +1,2 @@
 # HPI-2017
-Harker Programming Invitational, 2017 (by Adriano, Rahul, &amp; Derek)
+Harker Programming Invitational, 2017 (Solutiols by Adriano, Rahul, Derek, Patrick, & Misha and Swapnil w/ their team)
