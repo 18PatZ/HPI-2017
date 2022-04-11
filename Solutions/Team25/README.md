@@ -1,1 +1,0 @@
-Solutions by Team25 (Misha and Swapnil's team)

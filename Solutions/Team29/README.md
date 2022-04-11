@@ -1,1 +1,0 @@
-Solutions by Patrick Zhong, Adriano Hernandez, Derek Yen, and Rahul Bhethanabotla
